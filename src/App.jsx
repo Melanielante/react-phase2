@@ -1,3 +1,4 @@
+
 import Contact from "./Contact"
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
       <Contact />
     </>
+
   )
 }
 
