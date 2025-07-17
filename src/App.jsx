@@ -1,5 +1,6 @@
 
 import Contact from "./Contact"
+import Navbar from "./Navbar"
 
 function App() {
   
