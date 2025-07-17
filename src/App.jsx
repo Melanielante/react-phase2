@@ -1,10 +1,14 @@
 
-import Navbar from "./Navbar"
+import Contact from "./Contact"
 
 function App() {
+  
 
   return (
-    <Navbar />
+    <>
+      <Contact />
+    </>
+
   )
 }
 
