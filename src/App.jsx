@@ -6,7 +6,8 @@ function App() {
 
   return (
     <>
-      <Contact />
+        <Sidebar />
+        <Contact />
     </>
 
   )
