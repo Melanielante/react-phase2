@@ -1,3 +1,5 @@
+
+import home from "./home"
 import React from 'react'
 import Footer from './Components/Footer'
 import Contact from "./Contact"
@@ -9,9 +11,10 @@ const App = () => {
         <Navbar />
         <Sidebar />
         <Contact />
+        <home/>
         <Footer/>
     </>
   )
-}
+  }
 
 export default App
